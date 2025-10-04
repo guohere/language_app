@@ -82,9 +82,9 @@ def conversational_correction(user_input, history):
 # --- Gradio User Interface ---
 with gr.Blocks(theme=gr.themes.Soft(), title="German Tutor") as demo:
     gr.Markdown("# 🇩🇪 German Conversation Practice")
-    gr.Markdown("Chat with Jonas, your AI tutor. He'll reply to you and correct your mistakes.")
+    gr.Markdown("Chat with Deutsche Lehrerin, your AI tutor. He'll reply to you and correct your mistakes.")
     
-    chatbot = gr.Chatbot(label="Chat with Jonas", height=500, avatar_images=("human.png", "bot.png"))
+    chatbot = gr.Chatbot(label="Chat with Deutsche Lehrerin", height=500, avatar_images=("human.png", "bot.png"))
     chat_history = gr.State([]) 
     
     msg = gr.Textbox(label="Your message", placeholder="Schreib etwas auf Deutsch...", scale=7)

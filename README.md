@@ -1,6 +1,17 @@
 # language_app
 learning language through chatting
 
+---
+title: German Conversation Practice
+emoji: 🇩🇪
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: 4.31.0
+app_file: app.py
+pinned: false
+---
+
 ## language model properties
 1. System prompt
 2. context

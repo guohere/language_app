@@ -2,7 +2,7 @@
 
 title: German Conversation Practice
 
-emoji: deutsche
+emoji: 🇩🇪
 
 colorFrom: blue
 

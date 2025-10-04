@@ -3,8 +3,9 @@ learning language through chatting
 
 
 
-```
----
+
+
+\-\-\-
 
 title: German Conversation Practice
 
@@ -22,8 +23,7 @@ app_file: app.py
 
 pinned: false
 
----
-```
+\-\-\-
 
 ## language model properties
 1. System prompt
